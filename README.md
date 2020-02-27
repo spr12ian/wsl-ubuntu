@@ -11,7 +11,7 @@ The purpose of wsl-repository is to assist a developer to get up and running fro
 1. Windows 10 installed
 2. WSL enabled
 3. Ubuntu for WSL installed
-4. Git Credential manager for Windows installed
+4. [Git Credential manager for Windows](https://git-scm.com/book/en/v2/Git-Tools-Credential-Storage) installed
 
 ## What will be installed by the scripts in wsl-ubuntu?
 
@@ -42,6 +42,11 @@ The purpose of wsl-repository is to assist a developer to get up and running fro
 1. [The Modern JavaScript Tutorial](https://javascript.info/)
 2. [MDN web docs - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 3. [GitPod](https://www.gitpod.io/)
+4. [VS Code Remote Extension](https://code.visualstudio.com/docs/remote/wsl)
+5. [Git in wsl-ubuntu](https://medium.com/faun/how-to-use-git-and-other-linux-tools-in-wsl-on-windows-4c0bffb68b35)
+6. [Using GitHub credentials in WSL](https://blog.anaisbetts.org/using-github-credentials-in-wsl2/)
+7. [Git credential storage](https://git-scm.com/book/en/v2/Git-Tools-Credential-Storage)
+8. [Git credential manager](file:///C:/Program%20Files/Git/mingw64/share/doc/git-doc/git-credential-manager.html)
 
 ## Git Pages
 
