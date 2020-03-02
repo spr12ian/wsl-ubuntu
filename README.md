@@ -1,10 +1,10 @@
 # wsl-ubuntu
-X
-wsl-ubuntu is a git repository stored on GitHub.
 
-The assumption is that this Git repository will be used by a single developer intending to develop Javascript (or variations like Typescript) on the Windows subsytem for Linux (Ubuntu).
+wsl-ubuntu is a Git repository stored on GitHub.
 
-The purpose of wsl-repository is to assist a developer to get up and running from scratch as quickly as possible; providing some helper shell scripts, setting some environment variables, installing some software, and some helpful hints and tips.
+The assumption is that this Git repository will be used by a single developer intending to develop Javascript (or variations like Typescript) using Ubuntu running on the Windows subsytem for Linux.
+
+The purpose of wsl-ubuntu is to assist a developer to get up and running from scratch as quickly as possible; providing some helper shell scripts, setting some environment variables, installing some software, and some helpful hints and tips.
 
 ## Prerequisites
 
